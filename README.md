@@ -2,9 +2,6 @@
 Python version LaneRecognition
 
 
-This video is get from flag(https://www.flag.com.tw/)
-
-
 requirement :
 
 opencv-python~=4.4.0.46
