@@ -2,6 +2,8 @@
 Python version LaneRecognition
 
 
+pip install -r requirements.txt
+
 requirement :
 
 opencv-python~=4.4.0.46
